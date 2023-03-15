@@ -2,7 +2,8 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-
+        minuteToSecond(5);
+        minuteToSecond(3);
         minuteToSecond(2);
     }
 
